@@ -1,5 +1,5 @@
 {
-    "name": "cloudevents/sdk-php",
+    "name": "kismia/sdk-php",
     "description": "CloudEvents SDK",
     "version": "1.0.0",
     "type": "library",
